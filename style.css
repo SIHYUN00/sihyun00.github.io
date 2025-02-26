@@ -1,0 +1,39 @@
+#name {
+    font-family: Georgia;
+    font-size: 40px;
+    margin: 5px;
+    padding: 10px;
+    text-align: left;
+}
+
+#profile{
+    
+    margin: 5px;
+    padding: 3px;
+}
+
+.part {
+    font-family:Georgia;
+    font-size: 23px;
+    margin: 5px;
+    text-align: left;
+    padding: 10;
+}
+
+.d{
+    font-family: Arial;
+    font-size: 12px;
+    margin: 5px;
+    text-align: left;
+    padding: 10;
+    
+}
+
+.ed{
+    font-family:Georgia;
+    font-size: 16px;
+    margin: 5px;
+    text-align: left;
+    padding: 10;  
+    
+}
